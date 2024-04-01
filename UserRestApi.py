@@ -7,6 +7,7 @@ app = Flask(__name__)
 api = Api(app)
 
 users = []
+test = []
 
 
 class ErrorCodes:
